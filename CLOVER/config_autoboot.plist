@@ -97,11 +97,11 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 nv_disable=1 -disablegfxfirmware</string>
+		<string>dart=0 nv_disable=1 -disablegfxfirmware</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>macOS</string>
+		<string>OSX</string>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
@@ -150,6 +150,8 @@
 		<key>Hide</key>
 		<array>
 			<string>BOOTX64.EFI</string>
+			<string>Recovery</string>
+			<string>Preboot</string>
 		</array>
 		<key>Language</key>
 		<string>zh_CN:0</string>
