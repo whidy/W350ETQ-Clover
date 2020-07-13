@@ -1,4 +1,4 @@
-> 该笔记本出售ing！详情请见[闲鱼](https://g.alicdn.com/idleFish-F2e/app-basic/item.html?itemid=565129033967)！
+> 该笔记本2019年已出。不再维护了新版的MacOS系统了。
 
 # 准系统W350ETQ（神舟K590S）的黑苹果Clover
 
